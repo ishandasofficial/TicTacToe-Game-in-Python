@@ -23,6 +23,8 @@ python main.py
 
 ## Screenshot
 
+ <img width="960" height="540" alt="TicTacToe3" src="https://github.com/user-attachments/assets/a8f24867-b221-49f2-bc2c-ef8c7aded414" />
+
 
 ## Future Improvements
 
@@ -33,4 +35,4 @@ python main.py
 
 ## Author
 
-Ishan <img width="960" height="540" alt="TicTacToe3" src="https://github.com/user-attachments/assets/a8f24867-b221-49f2-bc2c-ef8c7aded414" />
+Ishan
